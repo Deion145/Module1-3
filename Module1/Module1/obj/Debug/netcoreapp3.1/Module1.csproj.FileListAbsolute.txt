@@ -1,0 +1,12 @@
+/Users/deionnelson/Desktop/BakeryShoppingCart/Module1/Module1/bin/Debug/netcoreapp3.1/Module1.deps.json
+/Users/deionnelson/Desktop/BakeryShoppingCart/Module1/Module1/bin/Debug/netcoreapp3.1/Module1.runtimeconfig.json
+/Users/deionnelson/Desktop/BakeryShoppingCart/Module1/Module1/bin/Debug/netcoreapp3.1/Module1.runtimeconfig.dev.json
+/Users/deionnelson/Desktop/BakeryShoppingCart/Module1/Module1/bin/Debug/netcoreapp3.1/Module1.dll
+/Users/deionnelson/Desktop/BakeryShoppingCart/Module1/Module1/bin/Debug/netcoreapp3.1/Module1.pdb
+/Users/deionnelson/Desktop/BakeryShoppingCart/Module1/Module1/obj/Debug/netcoreapp3.1/Module1.csprojAssemblyReference.cache
+/Users/deionnelson/Desktop/BakeryShoppingCart/Module1/Module1/obj/Debug/netcoreapp3.1/Module1.AssemblyInfoInputs.cache
+/Users/deionnelson/Desktop/BakeryShoppingCart/Module1/Module1/obj/Debug/netcoreapp3.1/Module1.AssemblyInfo.cs
+/Users/deionnelson/Desktop/BakeryShoppingCart/Module1/Module1/obj/Debug/netcoreapp3.1/Module1.csproj.CoreCompileInputs.cache
+/Users/deionnelson/Desktop/BakeryShoppingCart/Module1/Module1/obj/Debug/netcoreapp3.1/Module1.dll
+/Users/deionnelson/Desktop/BakeryShoppingCart/Module1/Module1/obj/Debug/netcoreapp3.1/Module1.pdb
+/Users/deionnelson/Desktop/BakeryShoppingCart/Module1/Module1/obj/Debug/netcoreapp3.1/Module1.genruntimeconfig.cache
